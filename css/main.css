@@ -42,6 +42,12 @@ h1 {
     transform: translate(-50%, -50%);
 }
 
+.billboard {
+    background-color: #8A8A8A;
+    text-align: center;
+    padding: 4em;
+}
+
 .fig {
     position: relative;
     padding: 0;
@@ -113,6 +119,7 @@ body {
 .name {
     color: #FFFFFF;
     font-weight: 100;
+    font-family: 'Avant Garde', 'Century Gothic', sans-serif;
 }
 
 .thanks {
