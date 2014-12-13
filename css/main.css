@@ -59,7 +59,6 @@ h1 {
     display: block;
     position: relative;
     padding: .5em .75em;
-    position: absolute;
 }
 
 .nav-top a,
@@ -109,6 +108,11 @@ body {
 
 header {
     
+}
+
+.thanks {
+    margin: 2em;
+    text-align: center;
 }
 
 .logo {
