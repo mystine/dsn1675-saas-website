@@ -44,6 +44,11 @@ h1 {
 
 .fig {
     position: relative;
+    padding: 0;
+}
+
+.figcaption {
+    margin: 2em;
 }
 
 .nav-top {
@@ -54,6 +59,7 @@ h1 {
     display: block;
     position: relative;
     padding: .5em .75em;
+    position: absolute;
 }
 
 .nav-top a,
