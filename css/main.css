@@ -46,7 +46,6 @@ h1 {
     background-color: #8A8A8A;
     text-align: center;
     padding: 4em;
-    line-height: 5em;
 }
 
 .fig {
@@ -197,6 +196,15 @@ button:active {
     width: 12em;
     margin: 0.25em;
 }
+
+.profile {
+    padding: 0;
+    margin: 0;
+    z-index: 10;
+    left: 50%;
+    right: 50%;
+}
+
 .toplink {
     padding: 0;
     margin: 0;
